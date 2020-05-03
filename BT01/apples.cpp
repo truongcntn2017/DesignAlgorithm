@@ -63,6 +63,7 @@ void processing(){
         if (isEqualNumArea()){
             firstIndex = indices[firstPoint];
             lastIndex = indices[lastPoint];
+            break;
         }
     }
 }
